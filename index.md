@@ -185,7 +185,7 @@ eventbrite: "51815645992"          # optional: alphanumeric key for Eventbrite r
 <p id="note">
   <strong>Note:</strong>
   We will be offering two Software Carpentry Workshops in the month of November. Participants will have the option of registering for the workshop in either the morning or the afternoon for four Fridays throughout the month.  <br/><br/>
-  <strong>We ask that registrants commit to attending at least three out of the four sessions.<strong>
+  <strong>We ask that registrants commit to attending at least three out of the four sessions.</strong>
 </p>
 
 {% comment %} 
